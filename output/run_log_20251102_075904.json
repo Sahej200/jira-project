@@ -1,0 +1,10 @@
+{
+  "start": "2025-11-02T07:59:04.300665",
+  "end": "2025-11-02T07:59:04.723383",
+  "duration_seconds": 0.422718,
+  "actions": [
+    "scrape",
+    "transform"
+  ],
+  "success": false
+}

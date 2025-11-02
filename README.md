@@ -42,7 +42,7 @@ Architecture Overview
 1️. Clone the Repository
 bash
 Copy code
-git clone https://github.com/Sahej200/jira-llm-pipeline.git
+git clone https://github.com/Sahej200/jira-project.git
 cd jira-llm-pipeline
 
 2️. Create Virtual Environment
@@ -101,8 +101,6 @@ Once your virtual environment is active, start the CLI interface using:
 python app.py
 You’ll see an interactive prompt like:
 
-markdown
-Copy code
 ====================================
    Jira LLM Pipeline - Main Menu
 ====================================
