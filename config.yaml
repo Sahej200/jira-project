@@ -1,0 +1,12 @@
+projects: [HADOOP, SPARK, KAFKA]
+api:
+  base_url: "https://issues.apache.org/jira/rest/api/2"
+  max_results: 100
+  rate_limit_delay: 1.1
+scraping:
+  max_issues_per_project: 300   
+  resume_from_checkpoint: true
+output:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  final_output: "output/training_data.jsonl"
